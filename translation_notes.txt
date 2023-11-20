@@ -504,7 +504,7 @@
 道常無名         Tao eternal without name
 樸雖小           simple eventhough small
 天下莫能臣也      heaven-down nothing ableto official alse
-侯王若能守之      marquis & kingship simile ableto defend of
+侯王若能守之      marquis-kings-like ableto defend of
 萬物將自賓        10k things shall visitor
 天地相合          heaven-earth eachother-harmony
 以降甘露         by descend sweet dew
@@ -568,7 +568,7 @@
 37
 道常無為           tao eternal without action
 而無不為           but without not action
-侯王若能守之        princes and kings ableto defend of
+侯王若能守之        princes-kings-likes ableto defend of
 萬物將自化         10k things shall self changeinto
 化而欲作           changeinto and desire towrite
 吾將鎮之以無名之樸   I shall supress of by without name of simple
@@ -636,3 +636,46 @@
 弱者道之用     weak beings tao of usage
 天下萬物生於有  heaven-down 10k things beget at possessing
 有生於無       possessing beget at without 
+
+41
+上士聞道      high scholar hear tao     scholar=minister/soldier/official
+勤而行之      diligent and action of
+中士聞道      middle scholar hear tao
+若存若亡      seem tokeep seem tolose
+下士聞道      low scholar hear tao
+大笑之        great laugh him
+不笑不足以為道  not laugh not sufficient by action tao
+故建言有之    thus the-proverbs have it
+明道若昧      bright way seems dark
+進道若退      progress way seems regress
+夷道若纇      even? way seems rough      
+上德若谷      best virtue seems valley
+大白若辱      great self seems disgrace
+廣德若不足    numerous virtue seems not sufficient
+建德若偷      establish virtue seems tosteal
+質真若渝      quality truly seems inconstant
+大方無隅      great square wihtout corners
+大器晚成      great instrument late finish
+大音希聲      great sounds sparse voice
+大象無形      great image without form
+道隱無名      tao secret without name
+夫唯道        man only tao 
+善貸且成      good pardon both finish
+
+42
+道生一         tao begets one
+一生二         one begets two
+二生三         two begets three
+三生萬物       three begets 10k-things
+萬物負陰而抱陽  10k-things carry yin and embrace yang
+沖氣以為和     empty breath by action together
+人之所惡       person of place evil
+唯孤寡不穀     only orphans widows not-grain   (hungry)
+而王公以為稱   but king impartial by acting "fit"   <- declaring orphan
+故物          things things
+或損之而益      either benefit or lose
+或益之而損      either lose or benefit
+人之所教       person of place teach
+我亦教之       I also teach of
+強梁者不得其死  strengthen-beam-beings not rare its death
+吾將以為教父    I shall by action teach-father
