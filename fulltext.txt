@@ -1,32 +1,4 @@
-The Tao-te Ching
-By Lao-tzu
-
-Translated by Dylan Gray
-
-with thanks to: 
-    https://www.centertao.org/essays/tao-te-ching/dc-lau/
-    https://taoism.net/tao-te-ching-online-translation/
-    https://archive.org/details/taotechinglaotzuvictorhmair_202002/page/n117/mode/2up
-    https://terebess.hu/english/tao/Cleary.html
-and other translations:
-    https://www.eheart.com/TAO/TTC/TTCchapters-small.pdf
-    http://classics.mit.edu/Lao/taote.mb.txt
-    https://www.chinasoul.org/documents/20182/82799/Tao+Te+Ching+Print+66991TTC.pdf/5d365e99-8288-4406-a023-5c65217e0fde?version=1.0
-
-special care taken to:
-    preserve line lengths and parellel structure
-    ensure paired and repeated words are reflected
-
-caveats:
-    this is me cross referencing several translations and dicionaries, I don't speak chinese
-    there's vocab and stock phrases that sneak in from my orthodox christian upbringing
-
-I am not trying to replicate the original. 
-I am trying to make another thing that is also good.
-The forced poetry is a reminder to take metaphorically.
-
-============================================
-------------------- Ch 1 ------------------- 
+------------------- Ch 01 ------------------
 
 A tao-able tao is not the constant TAO.
 A name-able name, not the constant NAME.
@@ -42,7 +14,7 @@ Both these persons, of one essence yet differing in name,
 Mystery of being one,
 Mystery of mysteries, door to the source of great wonder.
 
-------------------- Ch 2 ------------------- 
+------------------- Ch 02 ------------------
 
 If everyone knows beauty as beautiful  already so ugly.
 If everyone knows goodness to be good  already so evil.
@@ -69,7 +41,7 @@ and do not dwell on it.
 They do not grow proud, and
 success does not leave them.
 
-------------------- Ch 3 ------------------- 
+------------------- Ch 03 ------------------ 
 
 Stop proclaiming the great among you, and thus end fighting.
 Stop treasuring stuff for its rarity, and thus end thievery.
@@ -86,7 +58,7 @@ So the governance of a holy person:
 Act without acting,
 and nothing will be ungoverned.
 
-------------------- Ch 4 ------------------- 
+------------------- Ch 04 ------------------ 
 
 The TAO is empty and usage will not fill it.
 Its deepness prefigures all physical things:
@@ -100,7 +72,7 @@ The PEARL sits, difficult to discern.
 I do not know whose child it could be,
 since it predates every visible god.
 
-------------------- Ch 5 ------------------- 
+------------------- Ch 05 ------------------ 
 
 Heaven & Earth are impartial all physical things are chaff.
 The holy person is impartial the base multitudes are chaff.
@@ -112,7 +84,7 @@ The space between Heaven and Earth is like pair of bellows:
 Countless words,
 miss the center.
 
-------------------- Ch 6 ------------------- 
+------------------- Ch 06 ------------------ 
 
 Harvest spirits are immortal,
 This is the feminine mystery.
@@ -123,7 +95,7 @@ The root of heaven and earth.
 Flowing difficult to discern,
 Persisting without oversight.
 
-------------------- Ch 7 ------------------- 
+------------------- Ch 07 ------------------ 
 
 The vast Heavens and eternal Earth,
 Heaven and Earth will age and grow.
@@ -138,7 +110,7 @@ So a holy person,
 So by keeping the self from evil,
 the self is kept able to triumph.
 
-------------------- Ch 8 ------------------- 
+------------------- Ch 08 ------------------ 
 
 The highest goodness is like water;
 Water nourishes all things without contention
@@ -156,7 +128,7 @@ Therefore it becomes as Tao:
 It lives without contention,
 and becomes beyond reproach.
 
-------------------- Ch 9 ------------------- 
+------------------- Ch 09 ------------------
 
 Pours and stops  to not overflow.
 Over sharpening  dulls the blade.
@@ -774,7 +746,7 @@ Yet leaves some work undone.
 
 High tradition takes action,
 Still there lacks agreement,
-Then rolls up sleeves and pushes around,
+Then rolls up their sleeves and pushes around,
 
 Thus the Tao is lost as is virtue,
 Lose virtue there goes compassion,
@@ -819,12 +791,12 @@ After becoming whole it follows:
 Thus the superior is rooted from the inferior,
 The high require a foundation from the lowest.
 
-Thus the princes call themselves orphans, windows, hungry.
+Thus princes view themselves as: orphans, windows, hungry.
 The superior is claiming for a foundation! Is this not so?
 
 Therefore ultimate status is no status,
-Do not desire jade gems as real beauty,
-Gems are just rock.
+Wish not to be one of many like stones,
+Nor a precious gem.
 
 ------------------- Ch 40 ---------------- 
 
@@ -893,3 +865,35 @@ I will also teach.
 
 The violent do not obtain natural deaths,
 This shall be the father of my teachings.
+
+------------------- Ch 43 ---------------- 
+
+The very soft of the world
+overcomes the very firm of the world.
+
+Being without substance it
+enters places that are without space.
+
+By this I know the benefit of taking no actions.
+
+    Teach without using words.
+    Benefit taking no actions.
+
+These are beyond most of the world.
+
+------------------- Ch 44 ---------------- 
+
+Which is loved, your fame or your self?
+Which is more, your self or your coins?
+Which is most ruinous, to gain or lose?
+
+Thus, excess fame certainly means great expense,
+Continued hoarding certainly means heavy losses.
+
+    Know contentment, avoid disgrace.
+    Know when to stop, avoid dangers.
+
+By these, endure to endless ages.
+
+------------------- Ch 45 ---------------- 
+
