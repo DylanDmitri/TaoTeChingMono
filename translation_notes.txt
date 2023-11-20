@@ -24,7 +24,7 @@
 行不言之教               (action)(no)(words)(of)(teaching)
 萬物作焉而不辭       (physical things)(do)(here)(and)(not)(leave)
 生而不有            (produce)(and)(not)(bearing)
-為而不恃            (for)(and)(not)(rely)  
+為而不恃            (act)(but)(not)(rely)  
 功成而弗居     (acheivement)(complement/become)(conjunction)(not)(dwell)
 夫唯弗居       (husband)(only)(not)(dwell)
 是以不去       (yes)(by)(not)(go)
@@ -630,3 +630,9 @@
 故致數輿無輿       thus tosend tocount earth without earth
 不欲琭琭如玉     not desire jade jade simile jade
 珞珞如        pendant pendant as
+
+40
+反者道之動     contrary beings tao of movement
+弱者道之用     weak beings tao of usage
+天下萬物生於有  heaven-down 10k things beget at possessing
+有生於無       possessing beget at without 

@@ -6,8 +6,10 @@ Translated by Dylan Gray
 with thanks to: 
     https://www.centertao.org/essays/tao-te-ching/dc-lau/
     https://taoism.net/tao-te-ching-online-translation/
-    https://www.eheart.com/TAO/TTC/TTCchapters-small.pdf
+    https://archive.org/details/taotechinglaotzuvictorhmair_202002/page/n117/mode/2up
+    https://terebess.hu/english/tao/Cleary.html
 and other translations:
+    https://www.eheart.com/TAO/TTC/TTCchapters-small.pdf
     http://classics.mit.edu/Lao/taote.mb.txt
     https://www.chinasoul.org/documents/20182/82799/Tao+Te+Ching+Print+66991TTC.pdf/5d365e99-8288-4406-a023-5c65217e0fde?version=1.0
 
@@ -29,12 +31,12 @@ The forced poetry is a reminder to take metaphorically.
 A tao-able tao is not the constant TAO.
 A name-able name, not the constant NAME.
 
-Without name is the beginning of heaven and earth.
-Bearing name is the mother of all physical things.
+Without name is the origin of heaven and earth.
+Bearing name is the mother of all living things.
 
 Therefore,
-  Constantly without desire  gaze upon its source.
-  Constantly bearing desire  gaze upon its effects.
+  Constantly without desire gaze upon its source.
+  Constantly bearing desire gaze upon its effects.
 
 Both these persons, of one essence yet differing in name,
 Mystery of being one,
@@ -54,14 +56,17 @@ Therefore:
   Before and after each follow one another.
 
 So a holy person:
-  Acts by taking no actions.
+  Acts by taking no actions,
   Teaches by using no words.
-  Has all things but does not control them.
-  Produces but does not possess.
-  Provides but does not presume.
-  Becomes successful without growing proud.
 
-They do not grow proud, and 
+All living things are dutiful, each:
+  Produces but does not possess,
+  Acts but does not seek thanks.
+
+They become successful,
+and do not dwell on it.
+
+They do not grow proud, and
 success does not leave them.
 
 ------------------- Ch 3 ------------------- 
@@ -86,10 +91,10 @@ and nothing will be ungoverned.
 The TAO is empty and usage will not fill it.
 Its deepness prefigures all physical things:
 
-  Keeping edges dull,
-  Keeping ropes free,
-  Keeping light warm,
-  Keeping earth rich.
+  keeping edges dull
+  keeping ropes free
+  keeping light warm
+  keeping earth rich
 
 The PEARL sits, difficult to discern.
 I do not know whose child it could be,
@@ -97,8 +102,8 @@ since it predates every visible god.
 
 ------------------- Ch 5 ------------------- 
 
-Heaven & Earth are impartial, all physical things are chaff.
-The holy person is impartial, the base multitudes are chaff.
+Heaven & Earth are impartial all physical things are chaff.
+The holy person is impartial the base multitudes are chaff.
 
 The space between Heaven and Earth is like pair of bellows:
   Emptied, but never finished.
@@ -123,12 +128,12 @@ Persisting without oversight.
 The vast Heavens and eternal Earth,
 Heaven and Earth will age and grow.
 
-  By keeping selfless,
-  they endure forever.
+  by keeping selfless
+  they endure forever
 
 So a holy person,
- puts themself last and is first,
- denies themself and still lives.
+  puts themself last and is first
+  denies themself and still lives
 
 So by keeping the self from evil,
 the self is kept able to triumph.
@@ -140,13 +145,13 @@ Water nourishes all things without contention
 It rests in places regarded as low;
 Therefore it becomes as Tao:
 
-    Dwelling where proper,
-    Kindness in its heart,
-    Offering benevolently,
-    Reliable in its words,
-    Governing with wisdom,
-    Acting in its ability,
-    Having perfect timing.
+    dwelling where proper
+    kindness in its heart
+    offering benevolently
+    reliable in its words
+    governing with wisdom
+    acting in its ability
+    having perfect timing
 
 It lives without contention,
 and becomes beyond reproach.
@@ -201,8 +206,8 @@ Knead clay to make the container; the
 Chisel a window to make the room; the
  interior space makes the room usable.
 
-Hence when considering something,
-consider how nothingness is used.
+Thus, presence creates benefit,
+and absence creates usefulness.
 
 ------------------- Ch 12 ------------------ 
 
@@ -293,8 +298,8 @@ Is able to persist while being made anew.
     At ultimate emptiness,
     hold fast tranquility.
 
-    All things rise together,
-    I watch for their return.       
+    All living things arise together,
+    I keep watch for their returning.
 
 Myriad creatures each returns to its root.
 Returning to the root we call tranquility,
@@ -305,10 +310,10 @@ Knowing the eternal flame we call clarity.
 To know eternity is to accept what comes,
 To accept whatever comes is impartiality,
 As staying impartial makes good kingship,
-     and good kingship is heavenly:
+           and good kingship is heavenly:
 
 Heaven is thus TAO - TAO is thus eternal;
-     the self stays without danger.
+       and the self stays without danger.
 
 ------------------- Ch 17 ------------------ 
 
@@ -352,7 +357,7 @@ Thus this teaching finds the place it belongs:
 
 End study and worry stops.
 Of flattery and sincerity, how far between them?
-Of good and evil, what distance is between them?
+Of fair and ugly, what distance is between them?
 Of that which peoples fear, can you be unafraid?
 These get endless neglect.
 
@@ -373,7 +378,7 @@ Confused! The layity think clearly.
     I alone am drowsy.
     The layity, alert.
 
-I alone stay shut.
+I alone stay shut,
 Over the vast and tranquil ocean,
 the wind blows without any trace.
 
@@ -463,12 +468,12 @@ One cannot stretch far while standing still,
 One who makes themself seen cannot be clear,
 One who always presumes cannot be dilligent.
 
-One who praises themself cannot earn merit,
+One who praises themself can earn no merit,
 One who boasts of themself will not endure.
 
 Those with the Tao say these are redundant or leftover,
 Such things are evil,
-So those with Tao do not dwell with them.
+So those with Tao do not dwell on them.
 
 ------------------- Ch 25 ----------------- 
 
@@ -479,16 +484,16 @@ Prefiguring heaven & earth,
     Alone and unchanging.
 
 Walking the circle; free from peril,
-I believe she is the Mother of everything under heaven.
+I believe she is the world's Mother.
 
 Not knowing its name,
 I use the word "Tao",
 I try describing it as great,
     Great means flowing past,
-    Flowing creates distance,
-    Distance leads to return.
+    Flowing past makes a WAY,
+    The way of reconiliation.
 
-Therefore, Tao is great.
+Therefore, TAO is great.
         Heaven is great.
          Earth is great.
       Kingship is great.
@@ -601,14 +606,14 @@ Such affairs tend to backfire.
     And following each great army,
     Are certainly years of famine.
 
-The good acheive their goal then stop.
+The good achieve their goal then stop.
 They do not dare continue using force.
 
-    Acheive then do not boast,
-    Acheive then do not gloat,
-    Acheive without arrogance,
-    Acheive only when there is no other way,
-    Acheive then end violence.
+    Achieve then do not boast,
+    Achieve then do not gloat,
+    Achieve without arrogance,
+    Achieve only when there is no other way,
+    Achieve then end violence.
 
 Things grow strong, then age,
 This is called the "not TAO",
@@ -687,14 +692,14 @@ One who dies without perishing is forever.
     The TAO is like a great flood,
     It pushes both left and right.
 
-It provides life; relied on by myriad things it remains with them.
+It provides life; relied on by living things it remains with them.
 It accomplishes its tasks while bearing no name.
-It clothes and feeds myriad things without acting as their master.
+It clothes and feeds living things without acting as their master.
 
     Constantly without desire,
     It could be named "small".
 
-The myriad things return to it, but it never acts as their master.
+All living things return to it, but it never acts as their master.
 
     It could be named "great".
 
@@ -736,7 +741,7 @@ Tao is constantly without action,
 Also constantly without inaction.
 
 If princes and kings can keep it,
-The myriad things will transform.
+All living things will transform.
 
 Transformed yet desiring success.
 I shall supress them with nameless simplicity.
@@ -799,7 +804,7 @@ Those who formerly attained oneness:
     Earth - became whole and steady.
     Gods - became whole and powerful.
     Valleys - became whole and ample.
-    The myriad things - then whole and alive.
+    All living things - then whole and alive.
     Princes and kings - admired by the world.
 
 After becoming whole it follows:
@@ -808,7 +813,7 @@ After becoming whole it follows:
     Earth - without stability it would shatter,
     Gods - without power they would be exhausted,
     Valleys - without ampleness they would decay,
-    The myriad things - without life they would go extinct, 
+    All living things - without life they would go extinct, 
     The princes - without admiration they fear any stumble.
 
 Thus the superior is rooted from the inferior,
@@ -820,3 +825,11 @@ The superior is claiming for a foundation! Is this not so?
 Therefore ultimate status is no status,
 Do not desire jade gems as real beauty,
 Gems are just rock.
+
+------------------- Ch 40 ---------------- 
+
+The movements of TAO will reconcile,
+The proper usage of TAO is to yield.
+
+The living things are born from something,
+Something is born from nothing.
