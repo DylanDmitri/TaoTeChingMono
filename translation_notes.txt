@@ -32,7 +32,7 @@
 3
 不尚賢          not proclaim virtue
 使民不爭        make civilization not fighting
-不貴難得之貨    not expensive difficult rare of money
+不貴難得之貨    not expensive difficult need of money
 使民不為盜      make civilization not stealing
 不見可欲        not (see can want)
 使民心不亂      make civilization heart not messy
@@ -150,7 +150,7 @@
 五音令人耳聋       five sound makes human ear deaf
 五味令人口爽       five flavor makes human mouth bright
 驰骋畋猎令人心发狂 (galloping) (hunting) makes human heart issue crazy
-难得之货令人行妨   difficult rare of goods makes human go hinder
+难得之货令人行妨   difficult need of goods makes human go hinder
 是以聖人为腹不为目 So the holy person do belly not do eye
 故去彼取此         thus go he take these
 
@@ -159,7 +159,7 @@
 貴大患若身       expensive big trouble simile themself
 何謂寵辱若驚     what say favor disgrace simile startle     see 4 down
 寵為上  辱為下   favor action below    disgrace action high
-得之若驚         get of simile startle
+得之若驚         gain of simile startle
 失之若驚         lose of simile startle
 是謂寵辱若驚     yes say favor disgrace simile startle
 何謂貴大患若身   what say expensive big trouble simile self
@@ -490,7 +490,7 @@
 而美之者          and beauty of ones
 是樂殺人          thus happy killing person
 夫樂殺人者         man happy killing person ones
-則不可得志於天下矣  strength not can rare ambition at heaven-down  ?
+則不可得志於天下矣  strength not can need ambition at heaven-down finality
 吉事尚左          ? affairs proclaim left
 凶事尚右          vicious affairs proclaim right     // or "famished"
 偏將軍居左        ? shall army dwell left
@@ -699,3 +699,46 @@
 知足不辱       knows excessive not disgrace
 知止不殆       knows stop not perilous
 可以長久       can by longdistance longtime
+
+45
+大成若缺     great produce seems deficient
+其用不弊     its usage not detriment
+大盈若沖     great fullness seems empty
+其用不窮     its usage not poverty
+大直若屈     great straightness seems wavering
+大巧若拙     great skillfulness seems clumsy
+大辯若訥     great arguments seem inarticulate
+躁勝寒       impatient victories cold
+靜勝熱       quiet victories warm
+清靜為天下正  clear-quiet action heaven-down proper
+
+46
+天下有道       heaven-down has tao
+卻走馬以糞     while riding-horse usedfor manure 
+天下無道       heaven-down without tao
+戎馬生於郊     army-horse beget at outskirts
+罪莫大於可欲    guilt nothing-great-at ableto desire
+禍莫大於不知足  disaster nothing-great-at not know-contentment
+咎莫大於欲得    fault nothing-great-at desire need
+故知足之足     so know-contentment of contentment
+常足矣        eternal contentment finality!
+
+47
+不出戶 知天下  not arise house  know heaven-down
+不闚牖 見天道  not peer window  see heaven-tao
+其出彌遠      its arise tofill tao
+其知彌少      its know tofill youth
+是以聖人      so-the-holy-person
+不行而知      not walk and know
+不見而名      not seek and name
+不為而成      not act and produce
+
+48
+為學日益       act study day benefit
+為道日損       act tao day detriment
+損之又損       detriment of again detriment  (mystery of mysteries)
+以至於無為     by very at without action
+無為而無不為    without action and without not action
+取天下常以無事  seize-the-world eternal by without affairs
+及其有事       until its have affairs
+不足以取天下    not content by seize-the-world
