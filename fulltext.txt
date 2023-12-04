@@ -1,4 +1,12 @@
-------------------- Ch 01 ------------------
+# Tao Te Ching
+# Or "The Path of Virtue"
+
+Tao = the journey, the path, the road
+Te = integrity, virtue, driving force
+Ching = book of 
+
+========= The Book of the Path ============
+------------------- Ch 01 -----------------
 
 A tao-able tao is not the constant TAO.
 A name-able name, not the constant NAME.
@@ -63,10 +71,10 @@ and nothing will be ungoverned.
 The TAO is empty and usage will not fill it.
 Its deepness prefigures all physical things:
 
-  keeping edges dull
-  keeping ropes free
-  keeping light warm
-  keeping earth rich
+  Keeps edges dull,
+  Keeps ropes free,
+  Keeps light warm,
+  Keeps earth rich.
 
 The PEARL sits, difficult to discern.
 I do not know whose child it could be,
@@ -724,7 +732,8 @@ I shall supress them with nameless simplicity.
     Without desire, quietly,
     the world comes to rest.
 
-------------------- Ch 38 ---------------- 
+========= The Book of Virtue ============
+------------------- Ch 38 ---------------
 
 High virtue seeks no virtue,
 And by doing so is virtuous.
@@ -1010,6 +1019,17 @@ They all venerate TAO and value virtue.
     But by eternal nature.
 
 So, the TAO gives birth,
+And virtue will sustain.
+
+    Both nurses and educates them,
+    Sees that they finish growing,
+    Rears them, provides for them,
+    
+    Produces but does not possess,
+    Acts but does not seek thanks,
+    Governs but does not dominate,
+
+Its name: Mystic Virtue.
 
 ------------------- Ch 52 ---------------- 
 
@@ -1024,20 +1044,20 @@ Return and guard the mother,
 Without body you cannot die.
 
     Shut your senses, 
-    Close your doors,
+    Close your doors;
     Your life is without toil.
 
     Open your senses,
-    Assist in things,
+    Assist in things;
     You are without salvation.
 
 Observe the small with clarity.
 Protect the soft with strength.
 
 With their light,
-Returning become their clarity.
+Return to provide them clarity.
 
-Do not bring yourself calamity,
+Do not bring yourself disaster,
 Constant actions become habits.
 
 ------------------- Ch 53 ---------------- 
@@ -1062,22 +1082,104 @@ And is in contrast to the TAO!
 
 ------------------- Ch 54 ---------------- 
 
-A solid foundation is not easy to uproot.
-What is tightly embraced will not escape,
+A solid foundation is not easy to uproot,
+What is tightly embraced will not escape;
 It will be venerated by every generation.
 
-Cultivate it in yourself, the virtue is authentic.
+Cultivate it in yourself, then virtue is genuine.
 Cultivate in your family, then virtue is abundant.
 Cultivate in your groups, then virtue is reaching.
 Cultivate in your country, and virtue spills over.
 Cultivate in your world, and virtue is everywhere.
 
 Therefore,
-As yourself, observe other people,
-As a family, observe other families,
-As a group, observe other communities,
-As a country, observe other governments,
-With the world, observe the whole world.
+    As a person, observe other people,
+    As a family, observe other families,
+    As a group, observe other communities,
+    As a country, observe other governments,
+    With the world, observe the whole world.
 
 By what do I observe the world's nature?
 By these:
+
+------------------- Ch 55 ---------------- 
+
+Those holding profound virtue,
+Are similar to young children:
+
+  Poisonous bugs do not sting them,
+  Fearsome beasts do not claw them,
+  Large eagles will not grasp them,
+
+Slender bones and soft muscle,
+Yet their grip is firm.
+
+Not aware of intercourse, but aroused,
+This is having vitality.
+
+Shouts all day without growing hoarse,
+This is knowing harmony.
+
+    Knowing harmony - this is constancy,
+    Knowing constancy - this is clarity,
+
+Striving for the vitality of youth is inauspicious,
+For the heart to control the breath requires force.
+
+    Things grow strong, then age,
+    They are named the "not TAO",
+    The "not TAO" passes quickly.
+
+------------------- Ch 56 ---------------- 
+
+Those who know do not speak,
+Those who speak do not know.
+
+    Keeps words held,
+    Keeps gates shut,
+    Keeps edges dull,
+    Keeps ropes free,
+    Keeps light warm,
+    Keeps earth rich.
+
+Its name - Mystic Unity.
+
+Therefore,
+    It cannot be kept as close family,
+    Nor can it be held at a distance.
+
+    It cannot be exploited for profit,
+    Nor will is lead to complications.
+
+    It cannot be valued as expensive,
+    Nor can it be valued as worthless.
+
+Thus, unity in the world is priceless.
+
+------------------- Ch 57  ---------------- 
+
+Properly conduct civil affairs,
+With soliders aim for surprise.
+
+Without a plan seize the world.
+By what do I know its nature?
+By these:
+
+    A world with many taboos,
+    All the people then poor.
+
+    People with many weapons,
+    Country falls into chaos.
+
+    Men of talent and timing,
+    Odd events bring revolts.
+
+    Laws gain sophistication,
+    Then there is much theft.
+
+So the holy person spoke:
+
+    I act without action; the people change themselves.
+    I am properly quiet; the people correct themselves.
+    I am without schemes; the people enrich themselves.
+    I act without desire; the people lead simple lives.
